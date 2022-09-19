@@ -12,6 +12,19 @@
 			},
 			{
 				"inputs": [],
+				"name": "balance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "owner",
 				"outputs": [
 					{
@@ -74,11 +87,11 @@
 	},
 	"sources": {
 		"HoT - Ether_Store_Smart_Contract/FeeCollector.sol": {
-			"keccak256": "0xe2620ef71a4c0ef1fe65b81ebb6d103902b52f7081ec513cad61523ee983e48c",
+			"keccak256": "0x48b4c05f8cdeaacd5125fd4762e0211a94c51b924bfdcb48df0b1cb247a0b1bf",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://750d8cc3731be51391316b2d9238f39d6ce3e228f5fa1faad4565ac7a94f3df4",
-				"dweb:/ipfs/QmcdqKNukZVai88mVeX8Kz5Brsvxp5Q1eBWJ82Y6KdVsZm"
+				"bzz-raw://5f6c5aba2abce72df59fc9f0a3a83b13ffd77c8cd5ec59fdadc8965cc2a36e3f",
+				"dweb:/ipfs/QmfNppxKdgGYRQeAHZcnmcR4tHoFtEyjctAmXRvAdYXWbX"
 			]
 		}
 	},
